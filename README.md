@@ -8,4 +8,4 @@ Um APP simples de lista de compras que fiz para minha esposa utilizar nas compra
 - Bootstrap
 
 ### Link para o app
-[supercompras](https://bholiveiradev.github.io/super-compras/)
+[supercompras](https://boliveiradevbr.github.io/super-compras/)
