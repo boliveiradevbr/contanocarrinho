@@ -1,5 +1,5 @@
-# SUPER COMPRAS
-Um APP simples de lista de compras que fiz para minha esposa utilizar nas compras de mercado e açougue, ou qualquer outra loja, facilitando o controle das compras e gastos
+# CONTA NO CARRINHO
+Um APP simples de lista de compras, ou qualquer outra loja, que resolve o problema de descontrole do valor das compras ao finalizar a compra no caixa, facilitando o controle do total das compras, contribuindo para um melhor controle de gastos pessoais
 
 ### Tecnologias
 - HTML
@@ -8,4 +8,4 @@ Um APP simples de lista de compras que fiz para minha esposa utilizar nas compra
 - Bootstrap
 
 ### Link para o app
-[supercompras](https://boliveiradevbr.github.io/super-compras/)
+[CONTA NO CARRINHO](https://boliveiradevbr.github.io/contanocarrinho/)
